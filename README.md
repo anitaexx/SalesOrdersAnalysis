@@ -29,16 +29,16 @@ Steps Performed :
 
 Notebook: 02_Exploratory_data_analysis.ipynb
 
-  Revenue Structure
+  - Revenue Structure
     - Separated executed vs draft orders
     - Quantified realized revenue vs pipeline exposure
 
-  Revenue Concentration
+  - Revenue Concentration
     - Ranked customers by total revenue
     - Identified right-skewed distribution
     - Confirmed concentration risk
 
-  Order Value Distribution
+  - Order Value Distribution
     - Heavy right skew in order totals
     - Large orders disproportionately impact totals
 
