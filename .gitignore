@@ -1,0 +1,9 @@
+# Jupyter 
+.ipynb_checkpoints/ 
+
+# Excel temp files 
+~$*.xlsx 
+
+# OS 
+Thumbs.db 
+.DS_Store 
