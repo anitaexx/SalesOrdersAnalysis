@@ -1,8 +1,8 @@
-📊 SalesOrdersAnalysis
+SalesOrdersAnalysis
 
 Sales Order Data Exploration, Cleaning and Manipulation using Python
 
-🎯 Goals
+Goals :
 
   - Separate realized revenue from pipeline exposure
   - Quantify revenue concentration
@@ -29,67 +29,50 @@ Steps Performed :
 
 Notebook: 02_Exploratory_data_analysis.ipynb
 
-💰 Revenue Structure
+  Revenue Structure
+    - Separated executed vs draft orders
+    - Quantified realized revenue vs pipeline exposure
 
+  Revenue Concentration
+    - Ranked customers by total revenue
+    - Identified right-skewed distribution
+    - Confirmed concentration risk
 
-📊 Revenue Concentration
+  Order Value Distribution
+    - Heavy right skew in order totals
+    - Large orders disproportionately impact totals
 
-Ranked customers by total revenue
-
-Identified right-skewed distribution
-
-Confirmed concentration risk
-
-📦 Order Value Distribution
-
-Heavy right skew in order totals
-
-Large orders disproportionately impact totals
-
-👤 Sales Rep Analysis
-
-Execution rate by sales rep
-
-Pipeline exposure by rep
-
-Financial exposure ratios
-
-Fulfillment gap frequency
+  Sales Rep Analysis
+    - Execution rate by sales rep
+    - Pipeline exposure by rep
+    - Financial exposure ratios
+    - Fulfillment gap frequency
 
 3️⃣ Feature Engineering
 
 Notebook: 03_Feature_Engineering.ipynb
 
-Engineered Features
+Engineered Features :
 
-Order-level features
-
-Customer-level features
-
-Sales-rep-level features
+  - Order-level features
+  - Customer-level features
+  - Sales-rep-level features
 
 🔎 Key Findings
 
-Revenue is highly right-skewed
+  - Revenue is highly right-skewed
+  - A small subset of customers drives a disproportionate share of total revenue
+  - Execution reliability varies across sales reps
+  - Financial exposure is unevenly distributed
+  - Fulfillment gaps represent operational friction rather than customer behavior
 
-A small subset of customers drives a disproportionate share of total revenue
+📚 Libraies Used
 
-Execution reliability varies across sales reps
-
-Financial exposure is unevenly distributed
-
-Fulfillment gaps represent operational friction rather than customer behavior
-
-🛠 Technologies Used
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
+ - Pandas
+ - NumPy
+ - Matplotlib
+ - Seaborn
 
 📝 Notes
 
-The dataset represents a snapshot export from ERP
+The dataset represents a snapshot export of sales orders from Priority ERP for 2024 - 2025
