@@ -2,41 +2,28 @@
 
 Sales Order Data Exploration, Cleaning and Manipulation using Python
 
-This project analyzes ERP-exported sales order data and transforms transactional records into structured analytical feature layers.
-
 🎯 Goals
 
-Separate realized revenue from pipeline exposure
-
-Quantify revenue concentration
-
-Evaluate execution reliability
-
-Measure financial exposure
-
-Engineer reusable order-, customer-, and sales-rep-level features
-
-The project emphasizes business-aware data handling and operational analytics.
+  - Separate realized revenue from pipeline exposure
+  - Quantify revenue concentration
+  - Evaluate execution reliability
+  - Measure financial exposure
+  - Engineer reusable order-, customer-, and sales-rep-level features
+  - The project emphasizes business-aware data handling and operational analytics.
 
 1️⃣ Data Cleaning
 
 Notebook: 01_data_exploration_cleaning.ipynb
 
-Steps performed:
+Steps Performed :
 
-Loaded ERP-exported dataset (CSV)
-
-Corrected data types (dates, numeric fields)
-
-Removed non-analytical fields (CRM metadata, remarks, unused attributes)
-
-Handled missing execution dates using business logic
-
-Removed duplicates using order-level business keys
-
-Preserved signed financial values
-
-Positive balance → customer owes
+  - Loaded ERP-exported dataset (CSV)
+  - Corrected data types (dates, numeric fields)
+  - Removed non-analytical fields (CRM metadata, remarks, unused attributes)
+  - Handled missing execution dates using business logic
+  - Removed duplicates using order-level business keys
+  - Preserved signed financial values
+  - Positive balance → customer owes
 
 2️⃣ Exploratory Data Analysis
 
@@ -44,9 +31,6 @@ Notebook: 02_Exploratory_data_analysis.ipynb
 
 💰 Revenue Structure
 
-Separated executed vs draft orders
-
-Quantified realized revenue vs pipeline exposure
 
 📊 Revenue Concentration
 
@@ -76,6 +60,8 @@ Fulfillment gap frequency
 
 Notebook: 03_Feature_Engineering.ipynb
 
+Engineered Features
+
 Order-level features
 
 Customer-level features
@@ -84,19 +70,17 @@ Sales-rep-level features
 
 🔎 Key Findings
 
-Revenue is highly right-skewed.
+Revenue is highly right-skewed
 
-A small subset of customers drives a disproportionate share of total revenue.
+A small subset of customers drives a disproportionate share of total revenue
 
-Execution reliability varies across sales reps.
+Execution reliability varies across sales reps
 
-Financial exposure is unevenly distributed.
+Financial exposure is unevenly distributed
 
-Fulfillment gaps represent operational friction rather than customer behavior.
+Fulfillment gaps represent operational friction rather than customer behavior
 
 🛠 Technologies Used
-
-Python Libraries:
 
 Pandas
 
@@ -108,4 +92,4 @@ Seaborn
 
 📝 Notes
 
-The dataset represents a snapshot export from ERP.
+The dataset represents a snapshot export from ERP
