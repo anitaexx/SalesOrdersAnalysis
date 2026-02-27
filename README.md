@@ -1,5 +1,5 @@
 # SalesOrdersAnalysis
-ERP Sales Order Data Exploration, Cleaning and Manipulation using Python
+Sales Order Data Exploration, Cleaning and Manipulation using Python
 
 This project analyzes ERP-exported sales order data and transforms transactional records into structured analytical feature layers.
 
