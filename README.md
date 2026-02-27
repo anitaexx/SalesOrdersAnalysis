@@ -42,7 +42,7 @@ Notebook: 02_Exploratory_data_analysis.ipynb
     - Heavy right skew in order totals
     - Large orders disproportionately impact totals
 
-  Sales Rep Analysis
+  - Sales Rep Analysis
     - Execution rate by sales rep
     - Pipeline exposure by rep
     - Financial exposure ratios
