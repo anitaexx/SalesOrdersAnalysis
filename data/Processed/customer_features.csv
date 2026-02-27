@@ -1,0 +1,386 @@
+customer_number,customer_name,customer_total_revenue,customer_avg_order_value,customer_order_count,customer_execution_rate,customer_balance_net,customer_owes_ratio,company_owes_ratio,unshipped_rate,avg_order_line_count
+100044,Raluca's Spa,-801.0,-801.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100079,Gee Beauty,3574.0,893.5,4,1.0,5,0.75,0.25,0.25,1.0
+100101,Elite Laser Lounge,-801.0,-801.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100107,Serenity Skin Care Studio Inc.,30.0,30.0,1,1.0,1,1.0,0.0,0.0,1.0
+100135,Dolce Bella Spa,4100.0,4100.0,1,1.0,2,1.0,0.0,0.0,2.0
+100183,Skinprovement Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+100198,Element 5 Spa,-810.0,-810.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100200,Lime Health & Wellness (Amy Ostrowski),7900.0,7900.0,1,1.0,1,1.0,0.0,0.0,1.0
+100205,Sunrise Day spa and Salon,-600.75,-300.375,2,1.0,-1,0.5,0.5,0.5,1.0
+100230,Perfectly Polished,69.0,69.0,1,0.0,1,1.0,0.0,0.0,1.0
+100256,Dermica,-801.0,-801.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100285,Roots Hair and Esthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+100305,Nirvana Hair Salon and Spa,-801.0,-801.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100343,Serenity Spa & Lounge,5310.0,2655.0,2,1.0,0,0.5,0.5,0.5,1.0
+100350,Omnilaser Honduras (Jose Antonio Zuniga),-1947.98,-1947.98,1,1.0,-2,0.0,1.0,1.0,2.0
+100414,Trims Salon & Spa (Kilborn Healing),-890.0,-890.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100417,Jun Spa Ltd.,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100425,Canadian Beauty College - Vaughan Head Office,0.0,0.0,1,1.0,-1,1.0,1.0,1.0,3.0
+100426,Canadian Beauty College - Mississauga Location,13950.0,13950.0,1,1.0,-5,1.0,1.0,1.0,9.0
+100435,Canadian Beauty College Ajax,0.0,0.0,1,1.0,0,1.0,1.0,1.0,2.0
+100459,Beauty Marx Aesthetic Medspa,14028.170000000002,4676.056666666667,3,1.0,5,1.0,0.0,0.0,1.0
+100487,Beauty Trends (Nail Trends),-890.0,-890.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100492,Broward Dermatology & Cosmetic Specialists,-1438.74,-1438.74,1,1.0,-1,0.0,1.0,1.0,1.0
+100507,Refresh Salon and Spa,25.0,25.0,1,1.0,1,1.0,0.0,0.0,1.0
+100514,Awega Hair salon and spa,1250.0,1250.0,1,1.0,1,1.0,0.0,0.0,1.0
+100521,Canadian Beauty College - Newmarket,3105.0,1552.5,2,1.0,-2,0.5,1.0,1.0,3.0
+100528,St. Lawrence College,1000.0,1000.0,1,1.0,1,1.0,0.0,0.0,1.0
+100529,Comprehensive Family Practice (Dr. Kipervas),497.96,497.96,1,1.0,3,1.0,0.0,0.0,2.0
+100542,Dr. Shelley Glover,-7672.09,-3836.045,2,1.0,-2,0.0,1.0,1.0,1.0
+100554,Monastery Spa & Suites,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100569,New Image Esthetics,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+100574,R Spa,10064.65,3354.883333333333,3,1.0,3,0.6666666666666666,0.3333333333333333,0.3333333333333333,1.6666666666666667
+100585,Glow n Glam Beauty Bar,1000.0,1000.0,1,1.0,1,1.0,0.0,0.0,1.0
+100607,Adore Spa,6900.0,6900.0,1,1.0,1,1.0,0.0,0.0,1.0
+100613,Bliss Body Care,-801.0,-801.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100617,Equilibre Beaute Sante,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+100625,Cali Lashes & Beauty Bar,250.0,250.0,1,1.0,3,1.0,0.0,0.0,1.0
+100627,Delmar College,6320.0,6320.0,1,1.0,1,1.0,0.0,0.0,1.0
+100646,Lux Nail Beauty Bar Hamilton,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100653,Beautilux Parlour (Farnaz Ghavami),11351.7,11351.7,1,1.0,2,1.0,0.0,0.0,2.0
+100665,Amanda Perino (Respria Spa),0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+100671,Beautiful You Laser and MediSpa (Cindy Spa),6120.01,3060.005,2,1.0,-1,0.5,0.5,0.5,1.0
+100676,Coral MediSpa,0.0,0.0,1,1.0,4,1.0,0.0,0.0,2.0
+100682,Aion Wellness Studio (Chandra Rose Beauty),0.0,0.0,1,1.0,3,1.0,0.0,0.0,1.0
+100690,"Shanghai Elegance Enterprise Co., Ltd (Rubis Spa",129080.0,64540.0,2,1.0,30,1.0,0.0,0.0,3.0
+100700,Haideh's Beauty (Studio H),2900.0,2900.0,1,1.0,1,1.0,0.0,0.0,1.0
+100704,"Glow Beauty Boutique (Glow Mist-On Tanning, Inc)",0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+100714,Restoration Medical Aesthetics,-2566.94,-2566.94,1,1.0,-4,0.0,1.0,1.0,2.0
+100727,Canadian Beauty College - Toronto Campus,11850.0,11850.0,1,1.0,3,1.0,0.0,0.0,1.0
+100730,Natural Touch Spa Corp.,3900.0,3900.0,1,1.0,1,1.0,0.0,0.0,1.0
+100735,Mony Beauty (Amany),-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100756,Fourth Avenue Medical(Amara Medical Aesthetics),655.0,655.0,1,1.0,1,1.0,0.0,0.0,1.0
+100776,St. Clair College,3950.0,1975.0,2,1.0,2,1.0,0.0,0.0,1.0
+100782,Pure + Simple Oshawa (Willow Dreams Inc.),1000.0,1000.0,1,1.0,1,1.0,0.0,0.0,1.0
+100793,Details & Co. Inc.,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100803,Letaya Salon & Spa,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100807,Liberty Laser Clinic,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100808,Rosie's Spa and Wellness Center,-720.0,-720.0,1,1.0,-3,0.0,1.0,1.0,1.0
+100822,Marca College Mississauga,5900.0,5900.0,1,1.0,1,1.0,0.0,0.0,1.0
+100824,York Street Spa Inc.,-300.0,-150.0,2,1.0,0,0.5,0.5,0.5,1.0
+100834,IGlow Tan and Spa,6900.0,6900.0,1,1.0,2,1.0,0.0,0.0,2.0
+100839,Skinlogic (Bare Naked Beauty),-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100841,Pimp My Nails Plus,2500.0,2500.0,1,1.0,2,1.0,0.0,0.0,1.0
+100842,Beauty Box Collingwood,5989.0,2994.5,2,1.0,1,0.5,0.5,0.5,1.5
+100848,Mouvement Santé Beauté,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100860,Allie's Beauty Lounge,3940.0,3940.0,1,1.0,2,1.0,0.0,0.0,2.0
+100863,Renew + Refresh Medical Spa,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100869,Naked Yeti Waxing,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100882,Gallery Beauty Salon,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100892,Deluxe Medi Spa,-801.0,-801.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100894,Universal Laser Treatments,-2574.9900000000002,-858.33,3,1.0,-2,0.3333333333333333,0.6666666666666666,0.6666666666666666,1.6666666666666667
+100910,Celtic Heart Health & Beauty Day Spa,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+100913,Jas Aesthetics,1000.0,1000.0,1,1.0,1,1.0,0.0,0.0,1.0
+100915,Iris Beauty Bar (Glam by Marya),-720.0,-720.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100949,Clinique Zenora (Marie-Pier Chiasson),1368.0,1368.0,1,1.0,4,1.0,0.0,0.0,3.0
+100954,Top Layer Corp,6328.0,3164.0,2,1.0,2,0.5,0.5,0.5,2.0
+100960,DeeVa Spa Esthetics & Relaxation,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+100964,2657363 Ontario Inc. o/a Ice21,500.0,250.0,2,1.0,2,1.0,0.0,0.0,1.0
+100965,Spa Plumeria (Sukhdev Kaur Kainth),11700.0,5850.0,2,1.0,6,1.0,0.0,0.0,2.0
+100967,Favorite Self (At Your Door/1000 Islands),-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+100971,Envy Spa & Massage,1000.0,1000.0,1,1.0,1,1.0,0.0,0.0,1.0
+100972,United Beauty,0.0,0.0,1,1.0,7,1.0,0.0,0.0,3.0
+100973,Permanently You,-1600.0,-400.0,4,1.0,2,0.5,0.5,0.5,1.25
+100994,Blush Medispa Catelgar (Nanaimo),4738.0,2369.0,2,1.0,2,0.5,0.5,0.5,2.0
+100997,Elite Spa Group,-1801.0,-900.5,2,1.0,-2,0.0,1.0,1.0,1.0
+101007,Art of Laser by Preeti,-450.0,-225.0,2,1.0,3,0.5,0.5,0.5,2.0
+101011,Mirage Sugaring Studio,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101013,Hong Nguyen Beauty Studio,-1333.32,-1333.32,1,1.0,-2,0.0,1.0,1.0,2.0
+101014,Indulge Esthetics and Wellness,-1800.0,-900.0,2,1.0,-2,0.0,1.0,1.0,1.0
+101027,Sydney Delgarno (Green Tea With Me Esthetics),-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101029,Clinique Bo-T Pure,1250.0,625.0,2,1.0,2,0.5,0.5,0.5,1.0
+101033,Thrive Beauty Bar,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101034,Pure + Simple (Yorkville),0.0,0.0,2,1.0,2,1.0,0.0,0.0,1.0
+101035,Pure + Simple (Yonge & Eglinton),11040.0,11040.0,1,1.0,2,1.0,0.0,0.0,1.0
+101037,Dermalogy Inc. (Chandni Vaja),-234.0,-117.0,2,1.0,-1,0.5,0.5,0.5,1.0
+101045,Mobile NP Inc / Ryfine,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101046,NUYU Laser (Cheri Gerroir),3900.0,3900.0,1,1.0,4,1.0,0.0,0.0,2.0
+101048,Skyn Fix (Beauty Calls),-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101051,Timeless Salon and Spa Incorporated,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101056,Beautiful You Esthetics,-890.0,-890.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101064,"Essence Medical (Cornerbrook, NL)",-2000.0,-1000.0,2,1.0,1,0.5,0.5,0.5,1.0
+101081,Acuvega Wellness Centre,0.0,0.0,1,1.0,8,1.0,0.0,0.0,3.0
+101094,Laser by Priyanka,-810.0,-810.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101124,Ilume Wellness (Pretty Sweet),-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101126,Rejuvn8 (2nd location New Hartford),3041.71,3041.71,1,1.0,4,1.0,0.0,0.0,1.0
+101131,"Essence Medical (St John's, NL)",-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101141,Calla Lily Laser,1500.0,1500.0,1,1.0,2,1.0,0.0,0.0,1.0
+101158,Skinprovement Schomberg,-2000.0,-2000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101159,Skin Studio (Sherin Azzam),16700.01,8350.005,2,1.0,0,0.5,0.5,0.5,1.0
+101165,Skyn Med (Tiffany Chatland & Sarah Vincent),0.0,0.0,1,1.0,1001,1.0,0.0,0.0,1.0
+101168,La Beaute Spa Holistic Centre,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101180,Esti-Medix Advanced Laser and Spa (Gina Marcelli,-1000.0,-500.0,2,1.0,0,0.5,0.5,0.5,1.0
+101182,Reesha Beauty Inc.,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101186,Mana's Med Spa,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101187,WinterHolmes Spa,750.0,375.0,2,1.0,2,1.0,0.5,0.5,1.5
+101190,Before & After Aesthetics,9.79,9.79,1,1.0,4,1.0,0.0,0.0,2.0
+101191,Lift Laser & Spa (Kathy Mckenzie),750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101193,Lendrum Sugaring,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101201,Joie Day Spa,35.0,17.5,2,0.5,52,1.0,0.0,0.0,1.5
+101206,Jako Beauty Center & Spa,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101208,The Soothing Relief Massage,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101210,Curly Makeup Studio,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101211,Remederm Esthetic (Dermature/Anastasia Aksenova),60.0,60.0,1,1.0,2,1.0,0.0,0.0,2.0
+101221,Infinity Laser Spa Inc.,-623.0,-623.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101232,Pure + Simple (Oakville),11040.0,11040.0,1,1.0,2,1.0,0.0,0.0,1.0
+101238,Northern Belle Laser and Aesthetic Studio,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+101246,NuYou Med-Spa (Vanessa),-4410.0,-4410.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101247,Ottawa SMP,-2800.0,-933.3333333333334,3,1.0,-3,0.0,1.0,1.0,1.0
+101252,Smoothe Skin and Laser Clinic (Terri Harrison),30.0,30.0,1,1.0,101,1.0,0.0,0.0,3.0
+101257,The Floating Lotus Laser & Skin Care Ltd.,375.0,375.0,1,1.0,2,1.0,0.0,0.0,1.0
+101271,Your Choice Salon & Spa,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101273,La Bella Beauty,1500.0,1500.0,1,1.0,2,1.0,0.0,0.0,1.0
+101275,Elite Laser Lounge Red Deer,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101276,Dentelle Beauty,5989.0,5989.0,1,1.0,2,1.0,0.0,0.0,2.0
+101278,Lashes By Lovell,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101285,Stay Gold Spa,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101288,Southwest Laser Clinic,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101297,Jadore Laser and Spa,-1630.0,-815.0,2,1.0,-2,0.0,1.0,1.0,1.0
+101308,Simply Silk Laser Hair Solution,-1060.0,-530.0,2,1.0,3,0.5,0.5,0.5,2.0
+101318,Lash Laser Lab (RM Dollhouse),-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101321,Summit Laser Studio (Located inside Evolve),-600.0,-300.0,2,1.0,0,0.5,0.5,0.5,1.0
+101332,1000164686 Ontario Inc O/A TKV Beauty Bar,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101344,Elizabeth Beauty Bar,-900.0,-450.0,2,1.0,0,0.5,0.5,0.5,1.0
+101345,Ella Bella Production,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101346,Sue's Pure Laser YYC,-1000.0,-500.0,2,1.0,0,0.5,0.5,0.5,1.0
+101364,Ashley's Beauty & Lash Bar,-50.0,-25.0,2,1.0,-1,0.5,0.5,0.5,1.0
+101372,LJ Synergy Consulting Inc.,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101374,Beyond Beauty Aesthetics Ltd.,45132.39,45132.39,1,1.0,18,1.0,0.0,0.0,11.0
+101386,Manny's Hair Design,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101394,Lashes by Kendra,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101395,Nked Beauty (Jessica Sheridan),-3000.0,-1000.0,3,1.0,-3,0.0,1.0,1.0,1.0
+101408,Lumi Laser Studio,3120.0,3120.0,1,1.0,1,1.0,0.0,0.0,1.0
+101414,Evrobuty,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101418,The Skinn Studio HRM,0.0,0.0,1,1.0,-2,0.0,1.0,1.0,2.0
+101423,Cloud9 MedSpa & Wellness Hub(12111896 CANADA INC,0.0,0.0,2,1.0,3,1.0,0.0,0.0,1.5
+101430,Barelavie Laser Clinic,300.0,300.0,1,1.0,1,1.0,0.0,0.0,1.0
+101435,Peppermint Organic Spa,299.95,299.95,1,1.0,2,1.0,0.0,0.0,2.0
+101454,Sugar Me Right!,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101456,Tiffany Aesthetics,-900.0,-450.0,2,1.0,1,0.5,0.5,0.5,1.0
+101461,Honey Smooth Laser Studio,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101472,Sarah Eve Bilodeau,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101480,Mandelic Medical Aesthetics (Beauty by Stacey),-5900.0,-5900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101482,Club Well Inc,500.0,500.0,1,1.0,1,1.0,0.0,0.0,1.0
+101484,Nuphoria Laser & Esthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101490,DermaConcept,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101503,José Bastien Esthetic (Bulles & Rose),3000.0,1500.0,2,1.0,0,0.5,0.5,0.5,1.0
+101526,Love Nails & Spa - Thi Yeu Vu (2850319 Ont Corp),4043.34,1347.78,3,1.0,348,0.6666666666666666,0.3333333333333333,0.3333333333333333,3.3333333333333335
+101527,Golden Touch Beauty (Windsorland Homes/Lara),0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101535,Sugar Glow Inc.,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101542,Essentique Salon & Spa,312.5,312.5,1,1.0,1,1.0,0.0,0.0,1.0
+101562,Glorious Salon & Spa Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101563,Beautology Beauty Bar (House of Nails),-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101568,High Tide Tattoo Studio,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101570,Clear Skin Spa,-1351.5,-1351.5,1,1.0,-1,0.0,1.0,1.0,1.0
+101576,ReNew Cosmetic Laser,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101580,The Rose Room,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101581,MM Esthetik Inc.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101583,Flora (Rachel Wright),-8118.5,-8118.5,1,1.0,2,1.0,0.0,1.0,2.0
+101589,Dream Med Spa,-5490.0,-1830.0,3,1.0,2,0.6666666666666666,0.3333333333333333,0.3333333333333333,1.0
+101592,Toronto Men's Waxing Clinic,-1590.0,-1590.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101603,The Magic Room Spa,1125.0,1125.0,1,1.0,2,1.0,0.0,0.0,1.0
+101607,Stellar Link Enterprise Ltd,0.010000000000218279,0.010000000000218279,1,1.0,0,1.0,1.0,1.0,2.0
+101616,Studio Mina Academy Inc.,1250.0,1250.0,1,1.0,1,1.0,0.0,0.0,1.0
+101620,AVR Laser Studio,100.0,50.0,2,1.0,0,0.5,0.5,0.5,1.0
+101623,Derma Den-Med Spa & Laser Clinic Inc,138290.0,138290.0,1,0.0,20,1.0,0.0,0.0,14.0
+101625,LA Medical Aesthetics Ontario Inc.,0.0,0.0,2,1.0,51,1.0,0.0,0.0,1.0
+101626,Smooth Seas Laser Company,-5900.0,-5900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101643,Okotoks Laser Clinic Inc,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101663,Studio D Beauty Salon,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101667,2233464 Ontario Inc. DBA Kaizen Health Group,750.0,375.0,2,1.0,5,1.0,0.0,0.0,2.0
+101669,Institut D'Esthetique Capucine Inc.,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101671,Diamond Skin & Laser,-1800.0,-900.0,2,1.0,-3,0.0,1.0,1.0,1.0
+101683,Glow by Mawy,7490.0,7490.0,1,1.0,1,1.0,0.0,0.0,1.0
+101684,Vancouver Body Contouring Spa Inc.,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101690,Glow Beauty Bar,15740.0,7870.0,2,1.0,2,1.0,0.0,0.0,1.0
+101704,Shine by Sharry,-1090.0,-1090.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101709,Utopia Laser & Spa Corp,-900.0,-900.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101715,Care Hair & Beauty Salon,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101718,Milk and Honey Beauty Studio,375.0,375.0,1,1.0,1,1.0,0.0,0.0,1.0
+101724,MC Asthetics Ltd,1250.0,1250.0,1,1.0,1,1.0,0.0,0.0,1.0
+101729,DermaScience Medical Spa,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101731,Hoor Aesthetics,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101733,Sandy's Health & Wellness Centre,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101737,Inspired Health & Wellness,1073.55,1073.55,1,1.0,1,1.0,0.0,0.0,1.0
+101751,Jasmine Flower Spa,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101752,Makeup Ink,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101763,L'Institut MW Pro,45912.0,22956.0,2,1.0,3,1.0,0.0,0.0,1.5
+101764,B-Sculpt Medispa,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101767,Maryam Beauty Clinic Inc,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101771,Esthetique Johanne Benoit,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101774,Calm Waters Day Spa & Laser Clinic,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101775,Marca College Toronto,3120.0,3120.0,1,1.0,1,1.0,0.0,0.0,1.0
+101791,Inkit Laser Studio,0.0,0.0,1,1.0,201,1.0,0.0,0.0,3.0
+101792,XMEDISPA Laser & Skin,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101795,Glow Beauty Lounge,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101807,L. Coiffe Group JC Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101808,Lotus Wax + Laser Bar,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101809,Ravneet Kuar,-1590.0,-1590.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101812,Phace Medical Aesthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101813,Salon Bronzage et Esthetique Bali's,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101814,B You Laser & Aesthetic Ltd,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101818,Beaute Emeraude,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101821,Vie Salon,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101822,Beauty & Body Contour Niagara,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101824,Sapna's Beauty Salon,9128.0,9128.0,1,1.0,4,1.0,0.0,0.0,4.0
+101828,Hat & Mallet Flooring Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101829,Beauty Palace Salon Spa & Laser,4425.0,4425.0,1,1.0,3,1.0,0.0,0.0,3.0
+101834,Marie's Beauty and Spa,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101838,Royal Reflex,82148.33,82148.33,1,1.0,20,1.0,0.0,0.0,13.0
+101848,Imperial Laser Clinic,1500.0,1500.0,1,1.0,2,1.0,0.0,0.0,1.0
+101851,Brava Estheticienne,0.0,0.0,2,1.0,4,1.0,0.0,0.0,2.0
+101854,Soho Spa,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101858,Studio Malibu Spa,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101861,4ever Inked Beauty Inc,0.0,0.0,1,1.0,4,1.0,0.0,0.0,1.0
+101862,Aman Oasis Spa,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101864,Delluxe Beauty Bar,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101866,Les Audacieuses Salon D'Esthetique,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101871,Anderson College BC O/A 139K Robetech Institute,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101873,Flawless Glow Aethetics,4425.0,4425.0,1,1.0,1,1.0,0.0,0.0,2.0
+101875,Laser Bunny,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101876,Derma-Cure,-74.5,-37.25,2,1.0,3,1.0,0.0,0.0,2.0
+101878,Nu Roots Health,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101880,Esthetique Lisianne Fontaine,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101882,Clinique Medical Delta Sante,32805.0,32805.0,1,1.0,4,1.0,0.0,0.0,2.0
+101883,Chantal Duyvestijn,20925.0,20925.0,1,1.0,2,1.0,0.0,0.0,2.0
+101885,Laser and Skincare Beauty,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101889,Caissie Cape Oasis Inc (Christine’s Esthetique),5900.0,2950.0,2,1.0,3,1.0,0.0,0.0,1.0
+101891,Beauty Aesthetics 2860920 Ontario Inc,13732.0,3433.0,4,1.0,6,0.75,0.25,0.25,1.75
+101892,JAD Laser Skin Solutions,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101893,Lucare Skin Beauty Hub,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101894,Tattoo Lore Inc.,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+101895,Wildflower Beauty Studio (Nails by Angela),0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101896,Azibelle,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101900,Glow by Rita,1500.0,750.0,2,1.0,3,1.0,0.0,0.0,1.0
+101901,Youthful Visage & Esthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101904,Sam's Aesthetics Laser Medspa and Hair Salon,12500.0,12500.0,1,1.0,1,1.0,0.0,0.0,1.0
+101905,Derma Reve,-1000.0,-1000.0,1,1.0,-1,0.0,1.0,1.0,1.0
+101907,Bonita Beauty Studio,1000.0,500.0,2,1.0,2,1.0,0.0,0.0,1.0
+101908,Glowing Skin Laser Studio,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101910,Verde Skin Therapy,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101911,Lakeside Tattoo Company Ltd,1500.0,1500.0,1,1.0,2,1.0,0.0,0.0,1.0
+101918,Dr. Assumpta Efobi Professional Corp,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101923,Eleva Beauty (Bee Saro Inc),0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101925,Dr. Phil Sammut,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101926,Skin Spa Medical Esthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101927,Fennec Den Esthetics Inc.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101928,Simone-Maison de Beaute,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101930,Kase Body Works,20925.0,10462.5,2,1.0,3,1.0,0.0,0.0,1.0
+101931,Sugar Coated Yeg Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101932,Bel-Espri Medical Aesthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101937,Beauty on Queen,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101938,La Maison Esthetique,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101940,Neu Clinic Inc,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+101943,Unity Healthcare Solutions Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101944,Sans Beauty & Laser,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101945,La Pause V Beaute,0.0,0.0,1,1.0,3,1.0,0.0,0.0,3.0
+101946,Soft N Shiny Laser by Marian,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101947,Doll Face Beauty Ltd,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101948,Derma Haus,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+101949,Pearl Beauty & Massage Inc.,5234.0,1744.6666666666667,3,1.0,-1,0.3333333333333333,0.6666666666666666,0.6666666666666666,1.3333333333333333
+101950,Glowology Laser and Esthetics (Brow & Lash Beaut,0.0,0.0,2,1.0,3,1.0,0.0,0.0,1.0
+101951,Leena's Laser Center,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101952,Hairmode Ltd.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101955,O'Panache,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101956,Bloom Goddess Esthetics,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101958,Au Premier Coiffure Inc.,0.0,0.0,1,1.0,3,1.0,0.0,0.0,3.0
+101959,Bhakti Massage Ltd.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101961,Cyr Aesthetics,750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+101963,Brantford Laser Clinic,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101964,Bella Beauty Inc.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101965,Better Skin Ltd,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101967,Aurora Rejuve and Laser,8133.42,2711.14,3,1.0,4,1.0,0.0,0.0,1.0
+101968,Fully Faced Up Inc,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101969,Sugarology,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101970,Glamvibe Studio,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101972,Laserpeak Spa Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101975,Farzana's Wellness & Laser Inc.,1.0,0.5,2,1.0,10,1.0,0.0,0.0,3.0
+101976,Hira Wellness Centre,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101979,Wax Me Ltd,5992.0,2996.0,2,1.0,6,1.0,0.0,0.0,2.5
+101982,Nipissing Medical Clinic,148050.0,148050.0,1,1.0,21,1.0,0.0,0.0,17.0
+101983,Doigts De Fee,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+101985,Patricia Dias Beaute,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101987,Leslie's Beauties,45411.78,45411.78,1,1.0,18,1.0,0.0,0.0,11.0
+101990,AB Laser Centre (16572049 Canada Inc),0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101991,Catherine Nathan,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+101992,The Loft Spa,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101993,Rose Beauty & Hair Studio,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101995,A.M. Esthetique,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+101996,Jag'z Beauty Spa,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101997,Sharanjeet Multani,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+101998,Inna Soul Beauty Studio,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+101999,Arielyn's Skin & Beauty,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102000,Armita Alaei,129600.0,129600.0,1,1.0,24,1.0,0.0,0.0,16.0
+102002,Van Men's Club Ltd,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102003,Nova Spa (Maja),49308.0,49308.0,1,1.0,20,1.0,0.0,0.0,12.0
+102005,Dermamor Laser & Esthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102007,Clinic C. Teodoro MedSpa,118007.69,118007.69,1,1.0,20,1.0,1.0,1.0,16.0
+102008,I've Got You Glowing (Kim McMullin),750.0,750.0,1,1.0,1,1.0,0.0,0.0,1.0
+102010,Moonlight Spa Inc.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102011,Laser & Beauty By Vhic,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102013,Blooming Rose Spa Ltd,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+102015,Friends on Fraser,0.0,0.0,1,1.0,4,1.0,0.0,0.0,2.0
+102018,Illegal Beauty,0.0,0.0,1,1.0,3,1.0,0.0,0.0,3.0
+102019,Forma Belle,-43509.0,-21754.5,2,1.0,0,0.5,0.5,0.5,1.0
+102020,Navreet Kooner,59925.0,59925.0,1,0.0,16,1.0,0.0,0.0,11.0
+102021,Narjes Beauty (Mohamad Jaloud),0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+102023,Fabulash Beauty Studio,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102024,Soleia Med Spa (Pauline Danilowicz),0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102025,Sugar By Lyss,0.0,0.0,1,1.0,4,1.0,0.0,0.0,3.0
+102026,Delmar College (Red Deer Location),1775.0,1775.0,1,1.0,9,1.0,0.0,0.0,3.0
+102027,Dolly Diva Spa Inc.,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102028,Simply Posh Esthetics,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+102029,Beauty Zer Ner,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102030,Liliana Marcano,51600.0,51600.0,1,1.0,19,1.0,0.0,0.0,13.0
+102031,Jellicoe Health & Wellness,87999.98999999999,87999.98999999999,1,0.0,17,1.0,1.0,1.0,14.0
+102032,Light Impact Laser Treatments Inc.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102034,Fresh Face Esthetics,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102035,Spa Serenite,7164.63,7164.63,1,1.0,3,1.0,0.0,0.0,3.0
+102036,The Wrinkle Wrangler,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102037,2713329 Alberta Inc O/A Tattva Massage &Wellness,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102038,After Glow Laser Spa & Salon,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+102039,Glow Essence Beauty,44980.0,44980.0,1,0.0,21,1.0,0.0,0.0,14.0
+102040,Aakriti Threading and Wax Bar Inc,0.0,0.0,2,0.5,151,1.0,0.0,0.0,2.0
+102045,Asees Skin & Laser,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+102046,Puneets Beauty Studio,0.0,0.0,1,1.0,4,1.0,0.0,0.0,3.0
+102048,Glisten Glow Aesthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102049,Electrolysis By Olga,67425.0,67425.0,1,0.0,16,1.0,0.0,0.0,10.0
+102050,SkinX,54307.5,54307.5,1,1.0,21,1.0,0.0,0.0,14.0
+102051,Kovalchuk Cosmetology,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102053,Five Fingers Art Corp,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102055,Prestige Health & Beauty Sciences Academy,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102056,Skin Craft Esthetics,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102057,Tranquil Touch Massage Inc,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102061,Pure Glow Laser Studio Ltd.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,2.0
+102065,Noble Radiance,36560.0,36560.0,1,1.0,3,1.0,0.0,0.0,3.0
+102067,Sculpted Aesthetics Co.,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102072,Fountain of Youth Skin Rejuvenation,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102073,Navdeep Massage & Spa,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102074,Lins Luxe Laser,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102075,YYC Skincare & Spa Ltd,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102078,Unique Esthetique,121031.22,121031.22,1,1.0,22,1.0,1.0,1.0,17.0
+102079,Centre de Beaute Kayla,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+102080,Scugog Medi Spa,4437.83,4437.83,1,1.0,1,1.0,0.0,0.0,1.0
+102082,Serenity Tanning,7437.87,7437.87,1,1.0,3,1.0,0.0,0.0,2.0
+102083,Vio-Massage Inc,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102084,Luminous Medical Aesthetics by Nurse Melat,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102085,Beauty by Val,5490.0,5490.0,1,1.0,1,1.0,0.0,0.0,1.0
+102087,Lotus Beauty and Body Spa,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102088,Silk N Skin Inc,80910.0,80910.0,1,0.0,15,1.0,0.0,0.0,10.0
+102090,Patricia's Beauty Touch Inc,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102091,Bb Belleza Boutique,19530.0,19530.0,1,1.0,3,1.0,0.0,0.0,2.0
+102093,S.Kay Aesthetics Corp,63900.14,63900.14,1,1.0,19,1.0,1.0,1.0,15.0
+102094,White Rose Med Spa,0.0,0.0,1,1.0,3,1.0,0.0,0.0,2.0
+102095,Harlow Clinique Beaute,21541.59,21541.59,1,1.0,4,1.0,0.0,0.0,3.0
+102097,Modify Laser Solutions ( Sammy Heintz),0.0,0.0,1,0.0,5,1.0,0.0,0.0,5.0
+102099,Lily Dermis,0.0,0.0,1,1.0,1,1.0,0.0,0.0,1.0
+102100,Centre d'esthetique Magog Inc,3000.0,3000.0,1,1.0,4,1.0,0.0,0.0,1.0
+102102,Revive Medi Spa,0.0,0.0,1,1.0,6,1.0,0.0,0.0,6.0
+102103,Blue Iris Medical,249398.57,249398.57,1,0.0,23,1.0,0.0,0.0,19.0
+102104,Academi Edith Serei,245600.0,245600.0,1,0.0,28,1.0,0.0,0.0,22.0
+102105,Era Massage & Beauty,0.0,0.0,1,1.0,2,1.0,0.0,0.0,1.0
+102108,Eye Candy By Jenn,37345.79,37345.79,1,1.0,20,1.0,0.0,0.0,12.0
+102110,Bloom  & Bliss Studio 6,49065.0,49065.0,1,0.0,18,1.0,1.0,1.0,13.0
+102111,Vegreville Family Clinic,154900.0,154900.0,1,0.0,17,1.0,0.0,0.0,13.0
+9o,Pure + Simple (King),11040.0,11040.0,1,1.0,2,1.0,0.0,0.0,1.0
