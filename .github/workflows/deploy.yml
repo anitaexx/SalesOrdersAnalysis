@@ -41,7 +41,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: book/_build/site
+          path: book/_build/site/public
 
   deploy:
     environment:
