@@ -1,6 +1,6 @@
 import {
   require_bnf
-} from "/SalesOrdersAnalysis//build/_shared/chunk-YXGJK6QE.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-YXGJK6QE.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_bnf();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/bnf-TI6KQVZ3.js.map
+//# sourceMappingURL=/build/_shared/bnf-TI6KQVZ3.js.map

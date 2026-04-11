@@ -1,9 +1,9 @@
 import {
   require_sql
-} from "/SalesOrdersAnalysis//build/_shared/chunk-PY3WXTWD.js";
+} from "/build/_shared/chunk-PY3WXTWD.js";
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/apex.js
 var require_apex = __commonJS({
@@ -90,4 +90,4 @@ var require_apex = __commonJS({
 export {
   require_apex
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/chunk-ASLZBUTR.js.map
+//# sourceMappingURL=/build/_shared/chunk-ASLZBUTR.js.map

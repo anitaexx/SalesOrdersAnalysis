@@ -1,12 +1,12 @@
 import {
   renderEquation
-} from "/SalesOrdersAnalysis//build/_shared/chunk-NT723IVF.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-JUCOPL2A.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-YX4KLQK2.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-YTFS7O5J.js";
+} from "/build/_shared/chunk-NT723IVF.js";
+import "/build/_shared/chunk-JUCOPL2A.js";
+import "/build/_shared/chunk-YX4KLQK2.js";
+import "/build/_shared/chunk-YTFS7O5J.js";
 import {
   SourceFileKind
-} from "/SalesOrdersAnalysis//build/_shared/chunk-IMMBAB6Q.js";
+} from "/build/_shared/chunk-IMMBAB6Q.js";
 import {
   CREDIT_URL,
   buildUrl,
@@ -14,12 +14,12 @@ import {
   normalize,
   orcid,
   validate
-} from "/SalesOrdersAnalysis//build/_shared/chunk-7SI5XUIQ.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-DOEQHMLC.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-ZNG4DSCS.js";
+} from "/build/_shared/chunk-7SI5XUIQ.js";
+import "/build/_shared/chunk-DOEQHMLC.js";
+import "/build/_shared/chunk-ZNG4DSCS.js";
 import {
   VFile
-} from "/SalesOrdersAnalysis//build/_shared/chunk-MWXHQG25.js";
+} from "/build/_shared/chunk-MWXHQG25.js";
 import {
   NotebookCell,
   RuleId,
@@ -32,15 +32,15 @@ import {
   select,
   selectAll,
   selectBlockParts
-} from "/SalesOrdersAnalysis//build/_shared/chunk-Q6DHUCUI.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-LPSXN4QV.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
+import "/build/_shared/chunk-LPSXN4QV.js";
 import {
   __commonJS,
   __esm,
   __export,
   __toCommonJS,
   __toESM
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // node-modules-polyfills:stream
 function dew$2() {
@@ -17737,4 +17737,4 @@ export {
 sax/lib/sax.js:
   (*! http://mths.be/fromcodepoint v0.1.0 by @mathias *)
 */
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/dist-QKOOMYAF.js.map
+//# sourceMappingURL=/build/_shared/dist-QKOOMYAF.js.map

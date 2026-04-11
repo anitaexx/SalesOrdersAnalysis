@@ -1,7 +1,7 @@
 import {
   require_scala
-} from "/SalesOrdersAnalysis//build/_shared/chunk-GA4LSCZZ.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-KR5TX4ID.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-GA4LSCZZ.js";
+import "/build/_shared/chunk-KR5TX4ID.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_scala();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/scala-ZKF6FQR5.js.map
+//# sourceMappingURL=/build/_shared/scala-ZKF6FQR5.js.map

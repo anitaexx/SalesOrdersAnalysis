@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/ecl.js
 function words(str) {
@@ -213,4 +213,4 @@ init_ecl();
 export {
   ecl
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/ecl-AQGOAQQO.js.map
+//# sourceMappingURL=/build/_shared/ecl-AQGOAQQO.js.map

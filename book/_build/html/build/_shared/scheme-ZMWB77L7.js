@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/scheme.js
 function makeKeywords(str) {
@@ -242,4 +242,4 @@ init_scheme();
 export {
   scheme
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/scheme-ZMWB77L7.js.map
+//# sourceMappingURL=/build/_shared/scheme-ZMWB77L7.js.map

@@ -1,6 +1,6 @@
 import {
   require_uorazor
-} from "/SalesOrdersAnalysis//build/_shared/chunk-MUG5QBXN.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-MUG5QBXN.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_uorazor();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/uorazor-DSF7F4VH.js.map
+//# sourceMappingURL=/build/_shared/uorazor-DSF7F4VH.js.map

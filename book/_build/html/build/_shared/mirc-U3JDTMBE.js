@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/mirc.js
 function parseWords(str) {
@@ -120,4 +120,4 @@ init_mirc();
 export {
   mirc
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/mirc-U3JDTMBE.js.map
+//# sourceMappingURL=/build/_shared/mirc-U3JDTMBE.js.map

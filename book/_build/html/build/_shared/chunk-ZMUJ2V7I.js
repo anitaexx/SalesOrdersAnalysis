@@ -1,9 +1,9 @@
 import {
   require_ruby
-} from "/SalesOrdersAnalysis//build/_shared/chunk-IZ2CIBO4.js";
+} from "/build/_shared/chunk-IZ2CIBO4.js";
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/crystal.js
 var require_crystal = __commonJS({
@@ -73,4 +73,4 @@ var require_crystal = __commonJS({
 export {
   require_crystal
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/chunk-ZMUJ2V7I.js.map
+//# sourceMappingURL=/build/_shared/chunk-ZMUJ2V7I.js.map

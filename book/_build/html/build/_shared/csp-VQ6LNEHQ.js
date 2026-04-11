@@ -1,6 +1,6 @@
 import {
   require_csp
-} from "/SalesOrdersAnalysis//build/_shared/chunk-TD3YAJBB.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-TD3YAJBB.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_csp();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/csp-VQ6LNEHQ.js.map
+//# sourceMappingURL=/build/_shared/csp-VQ6LNEHQ.js.map

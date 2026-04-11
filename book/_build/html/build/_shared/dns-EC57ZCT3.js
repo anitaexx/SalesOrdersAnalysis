@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/dns.js
 var require_dns = __commonJS({
@@ -43,4 +43,4 @@ var require_dns = __commonJS({
   }
 });
 export default require_dns();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/dns-EC57ZCT3.js.map
+//# sourceMappingURL=/build/_shared/dns-EC57ZCT3.js.map

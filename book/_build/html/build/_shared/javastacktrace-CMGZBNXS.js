@@ -1,1 +1,1 @@
-import{a}from"/SalesOrdersAnalysis//build/_shared/chunk-3ZNQ4RJV.js";import"/SalesOrdersAnalysis//build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/build/_shared/chunk-3ZNQ4RJV.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();

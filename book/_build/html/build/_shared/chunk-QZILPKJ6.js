@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/lua.js
 var require_lua = __commonJS({
@@ -36,4 +36,4 @@ var require_lua = __commonJS({
 export {
   require_lua
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/chunk-QZILPKJ6.js.map
+//# sourceMappingURL=/build/_shared/chunk-QZILPKJ6.js.map

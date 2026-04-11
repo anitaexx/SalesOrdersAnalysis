@@ -1,9 +1,9 @@
 import {
   utils_default
-} from "/SalesOrdersAnalysis//build/_shared/chunk-WEDXSMQA.js";
+} from "/build/_shared/chunk-WEDXSMQA.js";
 import {
   require_dist
-} from "/SalesOrdersAnalysis//build/_shared/chunk-6CUK2GM5.js";
+} from "/build/_shared/chunk-6CUK2GM5.js";
 import {
   clear,
   common_default,
@@ -15,7 +15,7 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "/SalesOrdersAnalysis//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   axisBottom,
@@ -42,13 +42,13 @@ import {
   timeThursday,
   timeTuesday,
   timeWednesday
-} from "/SalesOrdersAnalysis//build/_shared/chunk-7PDOACA3.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-T7QTAV5N.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-2WW6JOYG.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
+import "/build/_shared/chunk-T7QTAV5N.js";
+import "/build/_shared/chunk-2WW6JOYG.js";
 import {
   __commonJS,
   __toESM
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/dayjs/plugin/isoWeek.js
 var require_isoWeek = __commonJS({
@@ -2636,4 +2636,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/ganttDiagram-JELNMOA3-55ULYQND.js.map
+//# sourceMappingURL=/build/_shared/ganttDiagram-JELNMOA3-55ULYQND.js.map

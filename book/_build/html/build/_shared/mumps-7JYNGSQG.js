@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/mumps.js
 function wordRegexp(words) {
@@ -103,4 +103,4 @@ init_mumps();
 export {
   mumps
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/mumps-7JYNGSQG.js.map
+//# sourceMappingURL=/build/_shared/mumps-7JYNGSQG.js.map

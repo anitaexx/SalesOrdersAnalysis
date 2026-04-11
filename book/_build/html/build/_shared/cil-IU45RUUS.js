@@ -1,6 +1,6 @@
 import {
   require_cil
-} from "/SalesOrdersAnalysis//build/_shared/chunk-SUDOGN7D.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-SUDOGN7D.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_cil();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/cil-IU45RUUS.js.map
+//# sourceMappingURL=/build/_shared/cil-IU45RUUS.js.map

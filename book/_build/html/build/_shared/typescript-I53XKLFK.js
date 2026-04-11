@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/typescript.js
 var require_typescript = __commonJS({
@@ -628,4 +628,4 @@ var require_typescript = __commonJS({
   }
 });
 export default require_typescript();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/typescript-I53XKLFK.js.map
+//# sourceMappingURL=/build/_shared/typescript-I53XKLFK.js.map

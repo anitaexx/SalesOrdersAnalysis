@@ -11,10 +11,10 @@ import {
   init_dist6 as init_dist3,
   styleTags,
   tags
-} from "/SalesOrdersAnalysis//build/_shared/chunk-3I3NFLZ5.js";
+} from "/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/json/dist/index.js
 var jsonHighlighting, parser;
@@ -114,4 +114,4 @@ export {
   jsonLanguage,
   jsonParseLinter
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/dist-KTPI7BYK.js.map
+//# sourceMappingURL=/build/_shared/dist-KTPI7BYK.js.map

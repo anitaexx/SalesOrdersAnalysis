@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/clike.js
 function Context(indented, column, type, info, align, prev) {
@@ -860,4 +860,4 @@ export {
   shader,
   squirrel
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/clike-U3KSNIK6.js.map
+//# sourceMappingURL=/build/_shared/clike-U3KSNIK6.js.map

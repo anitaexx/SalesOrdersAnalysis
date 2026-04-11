@@ -1,6 +1,6 @@
 import {
   require_concurnas
-} from "/SalesOrdersAnalysis//build/_shared/chunk-6FSG3D2J.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-6FSG3D2J.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_concurnas();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/concurnas-BZDF3DIK.js.map
+//# sourceMappingURL=/build/_shared/concurnas-BZDF3DIK.js.map

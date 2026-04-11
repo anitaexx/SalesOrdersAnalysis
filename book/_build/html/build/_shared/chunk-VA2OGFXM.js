@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/dax.js
 var require_dax = __commonJS({
@@ -43,4 +43,4 @@ var require_dax = __commonJS({
 export {
   require_dax
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/chunk-VA2OGFXM.js.map
+//# sourceMappingURL=/build/_shared/chunk-VA2OGFXM.js.map

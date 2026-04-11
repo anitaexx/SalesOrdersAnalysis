@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/autohotkey.js
 var require_autohotkey = __commonJS({
@@ -82,4 +82,4 @@ var require_autohotkey = __commonJS({
   }
 });
 export default require_autohotkey();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/autohotkey-AYZ4LUJJ.js.map
+//# sourceMappingURL=/build/_shared/autohotkey-AYZ4LUJJ.js.map

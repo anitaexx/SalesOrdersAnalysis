@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/oz.js
 function wordRegexp(words) {
@@ -240,4 +240,4 @@ init_oz();
 export {
   oz
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/oz-JM6ISGKV.js.map
+//# sourceMappingURL=/build/_shared/oz-JM6ISGKV.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/awk.js
 var require_awk = __commonJS({
@@ -72,4 +72,4 @@ var require_awk = __commonJS({
   }
 });
 export default require_awk();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/awk-5SOG2SZL.js.map
+//# sourceMappingURL=/build/_shared/awk-5SOG2SZL.js.map

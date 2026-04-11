@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/hcl.js
 var require_hcl = __commonJS({
@@ -76,4 +76,4 @@ var require_hcl = __commonJS({
 export {
   require_hcl
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/chunk-QVKSYLDK.js.map
+//# sourceMappingURL=/build/_shared/chunk-QVKSYLDK.js.map

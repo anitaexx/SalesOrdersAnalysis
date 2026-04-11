@@ -1,6 +1,6 @@
 import {
   require_d
-} from "/SalesOrdersAnalysis//build/_shared/chunk-6XWODOFX.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-6XWODOFX.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_d();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/d-I66JVD7I.js.map
+//# sourceMappingURL=/build/_shared/d-I66JVD7I.js.map

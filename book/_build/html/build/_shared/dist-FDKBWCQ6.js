@@ -84,17 +84,17 @@ import {
   resolveReferencesTransform,
   unnestTransform,
   updateLinkTextIfEmpty
-} from "/SalesOrdersAnalysis//build/_shared/chunk-NT723IVF.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-JUCOPL2A.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-YX4KLQK2.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-YTFS7O5J.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-7SI5XUIQ.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-DOEQHMLC.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-ZNG4DSCS.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-MWXHQG25.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-Q6DHUCUI.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-LPSXN4QV.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-NT723IVF.js";
+import "/build/_shared/chunk-JUCOPL2A.js";
+import "/build/_shared/chunk-YX4KLQK2.js";
+import "/build/_shared/chunk-YTFS7O5J.js";
+import "/build/_shared/chunk-7SI5XUIQ.js";
+import "/build/_shared/chunk-DOEQHMLC.js";
+import "/build/_shared/chunk-ZNG4DSCS.js";
+import "/build/_shared/chunk-MWXHQG25.js";
+import "/build/_shared/chunk-Q6DHUCUI.js";
+import "/build/_shared/chunk-LPSXN4QV.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export {
   DOITransformer,
   GithubTransformer,
@@ -182,4 +182,4 @@ export {
   unnestTransform,
   updateLinkTextIfEmpty
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/dist-FDKBWCQ6.js.map
+//# sourceMappingURL=/build/_shared/dist-FDKBWCQ6.js.map

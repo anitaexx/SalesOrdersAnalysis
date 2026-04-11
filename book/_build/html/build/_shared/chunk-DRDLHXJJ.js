@@ -1,9 +1,9 @@
 import {
   require_csharp
-} from "/SalesOrdersAnalysis//build/_shared/chunk-JWAGNOMV.js";
+} from "/build/_shared/chunk-JWAGNOMV.js";
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/aspnet.js
 var require_aspnet = __commonJS({
@@ -72,4 +72,4 @@ var require_aspnet = __commonJS({
 export {
   require_aspnet
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/chunk-DRDLHXJJ.js.map
+//# sourceMappingURL=/build/_shared/chunk-DRDLHXJJ.js.map

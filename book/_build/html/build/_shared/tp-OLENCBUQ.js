@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/tp.js
 var require_tp = __commonJS({
@@ -89,4 +89,4 @@ var require_tp = __commonJS({
   }
 });
 export default require_tp();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/tp-OLENCBUQ.js.map
+//# sourceMappingURL=/build/_shared/tp-OLENCBUQ.js.map

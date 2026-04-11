@@ -1,26 +1,26 @@
 import {
   selectSvgElement
-} from "/SalesOrdersAnalysis//build/_shared/chunk-YZZVRB5P.js";
+} from "/build/_shared/chunk-YZZVRB5P.js";
 import {
   populateCommonDb
-} from "/SalesOrdersAnalysis//build/_shared/chunk-KENABJ3K.js";
+} from "/build/_shared/chunk-KENABJ3K.js";
 import {
   parse
-} from "/SalesOrdersAnalysis//build/_shared/chunk-OA3SYV6I.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-FLZJMRFV.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-MD55FDMD.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-UH5LSYEI.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-GJ35H52W.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-WGO24YBI.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-UORA2QU4.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-2WSSL7DL.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-5TL5RV2T.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-75Y45RJ5.js";
+} from "/build/_shared/chunk-OA3SYV6I.js";
+import "/build/_shared/chunk-FLZJMRFV.js";
+import "/build/_shared/chunk-MD55FDMD.js";
+import "/build/_shared/chunk-UH5LSYEI.js";
+import "/build/_shared/chunk-GJ35H52W.js";
+import "/build/_shared/chunk-WGO24YBI.js";
+import "/build/_shared/chunk-UORA2QU4.js";
+import "/build/_shared/chunk-2WSSL7DL.js";
+import "/build/_shared/chunk-5TL5RV2T.js";
+import "/build/_shared/chunk-75Y45RJ5.js";
 import {
   cleanAndMerge,
   parseFontSize
-} from "/SalesOrdersAnalysis//build/_shared/chunk-WEDXSMQA.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-6CUK2GM5.js";
+} from "/build/_shared/chunk-WEDXSMQA.js";
+import "/build/_shared/chunk-6CUK2GM5.js";
 import {
   clear,
   configureSvgSize,
@@ -32,19 +32,19 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "/SalesOrdersAnalysis//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   arc_default,
   log,
   ordinal,
   pie_default
-} from "/SalesOrdersAnalysis//build/_shared/chunk-7PDOACA3.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-5XJWQ5WJ.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-SP2MKLPW.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-T7QTAV5N.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-2WW6JOYG.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
+import "/build/_shared/chunk-5XJWQ5WJ.js";
+import "/build/_shared/chunk-SP2MKLPW.js";
+import "/build/_shared/chunk-T7QTAV5N.js";
+import "/build/_shared/chunk-2WW6JOYG.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/pieDiagram-ADFJNKIX.mjs
 var DEFAULT_PIE_CONFIG = defaultConfig_default.pie;
@@ -227,4 +227,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/pieDiagram-ADFJNKIX-W54NYPWG.js.map
+//# sourceMappingURL=/build/_shared/pieDiagram-ADFJNKIX-W54NYPWG.js.map

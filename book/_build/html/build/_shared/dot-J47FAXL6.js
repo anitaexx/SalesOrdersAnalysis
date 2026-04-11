@@ -1,6 +1,6 @@
 import {
   require_dot
-} from "/SalesOrdersAnalysis//build/_shared/chunk-HVGPS7SE.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-HVGPS7SE.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_dot();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/dot-J47FAXL6.js.map
+//# sourceMappingURL=/build/_shared/dot-J47FAXL6.js.map

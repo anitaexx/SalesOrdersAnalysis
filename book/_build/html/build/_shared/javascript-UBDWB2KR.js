@@ -4,8 +4,8 @@ import {
   json,
   jsonld,
   typescript
-} from "/SalesOrdersAnalysis//build/_shared/chunk-5IUD4EPL.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-5IUD4EPL.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 init_javascript();
 export {
   javascript,
@@ -13,4 +13,4 @@ export {
   jsonld,
   typescript
 };
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/javascript-UBDWB2KR.js.map
+//# sourceMappingURL=/build/_shared/javascript-UBDWB2KR.js.map

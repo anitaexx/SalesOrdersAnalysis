@@ -1,6 +1,6 @@
 import {
   require_stylus
-} from "/SalesOrdersAnalysis//build/_shared/chunk-NQDFOBL6.js";
-import "/SalesOrdersAnalysis//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-NQDFOBL6.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_stylus();
-//# sourceMappingURL=/SalesOrdersAnalysis//build/_shared/stylus-KNA76XW2.js.map
+//# sourceMappingURL=/build/_shared/stylus-KNA76XW2.js.map
