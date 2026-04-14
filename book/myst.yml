@@ -16,4 +16,5 @@ project:
 
 site:
   template: book-theme
-
+  options:
+    baseurl: /SalesOrdersAnalysis
